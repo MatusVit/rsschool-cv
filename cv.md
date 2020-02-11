@@ -14,3 +14,14 @@ I like everything new and interesting. This is the main reason why I want to wor
 - SQL, MySQL
 - UX/UI: Figma, Photoshop, Axure RP
 - Video: shooting, Adobe Premiere, Davinci Resolve
+
+## Code examples
+```
+(function() {
+  'use strict';
+
+  setTimeout(function() {
+    document.querySelector('.greating_picture').classList.add('m--show');
+  }, 1000);
+})();
+```
