@@ -58,3 +58,12 @@ li {
 .section-summary-text {
     padding: 32px;
 }
+
+.section-code pre {
+    width: 600px;
+    font-size: 0.8rem;
+    line-height: 0.8rem;
+    padding: 16px;
+    border-radius: 16px;
+    background: rgba(0, 0, 0, 0.05)
+}
