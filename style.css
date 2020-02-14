@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12;
+    line-height: 1.6;
+    color: rgba(0, 0, 0, 0.84);
+}
+
+h1 {
+    font-size: 3rem;    
+}
+
+h2 {
+    font-size: 2rem;
+    margin-top: 4rem;
+}
+
+li {
+    list-style-type: none;    
+}
+
+.wrapper {
+    width: 1024px;
+    margin: 0 auto;
+    padding: 16px;   
+}
+
+.section-cart {
+    padding-top: 10vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    align-content: center;
+}
+
+.section-cart-contact li {
+    line-height: 1.8;
+}
+
+.grid-item {
+    justify-items: center;
+    align-self: center;
+}
+
+.section-cart figure {
+    margin: auto;
+}
+
+.section-cart-photo img {
+    border-radius: 50%;
+}
