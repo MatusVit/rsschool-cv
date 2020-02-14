@@ -47,3 +47,14 @@ li {
 .section-cart-photo img {
     border-radius: 50%;
 }
+
+.section-summary{
+    margin-top: 82px;
+    font-size: 1.2rem;
+    background: rgb(206, 206, 206);
+    border-radius: 16px;
+}
+
+.section-summary-text {
+    padding: 32px;
+}
